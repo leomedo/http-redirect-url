@@ -1,4 +1,4 @@
-name: http
+name: http_redirect
 version: 0.13.5-dev
 description: A composable, multi-platform, Future-based API for HTTP requests.
 repository: https://github.com/dart-lang/http
